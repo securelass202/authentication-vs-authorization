@@ -56,3 +56,6 @@ Ces deux processus sont souvent combinés dans un système sécurisé, mais **il
 
 ---
 
+
+
+![Authentication_vs_Authorization](https://github.com/user-attachments/assets/6992c452-c95b-49f8-84cd-422326d15b16)
