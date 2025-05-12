@@ -55,4 +55,7 @@ Définir les **droits d’accès** et les **ressources disponibles** à l’util
 Ces deux processus sont souvent combinés dans un système sécurisé, mais **ils ne sont pas interchangeables**. Il est crucial de bien comprendre cette distinction pour concevoir des systèmes robustes.
 
 ---
+<img width="1282" alt="Image" src="https://github.com/user-attachments/assets/75f6fb3b-f00f-4adf-a0f8-ca28d1093f08" />
+
+![Image](https://github.com/user-attachments/assets/de61db0e-3c6d-49cc-8cfd-833ac1273dd6)
 
